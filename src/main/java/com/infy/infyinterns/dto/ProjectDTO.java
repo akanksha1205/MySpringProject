@@ -26,6 +26,7 @@ public class ProjectDTO {
 		super();
 	}
 	
+	
 	public ProjectDTO(Integer projectId, String projectName,
 			Integer ideaOwner, LocalDate releaseDate,
 			MentorDTO mentorDTO) {
